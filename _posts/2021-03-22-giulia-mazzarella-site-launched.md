@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giulia Mazzarella, Launches Site"
+title: "Giulia Mazzarella"
 date: 2021-03-22
 ---
 
